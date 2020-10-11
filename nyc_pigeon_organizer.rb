@@ -11,6 +11,8 @@ def nyc_pigeon_organizer(data)
       
       
       binding.pry 
+      
+      if !final_array
      
      
      end  
