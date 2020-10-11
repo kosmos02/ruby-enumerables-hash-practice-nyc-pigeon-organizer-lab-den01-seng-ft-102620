@@ -25,7 +25,7 @@ def nyc_pigeon_organizer(data)
       end
      
      
-     final_array[name][key].push()
+     final_array[name][key].push(inner_keys)
      end  
     end 
   end
